@@ -1,5 +1,5 @@
 {
-  "homepage": "https://manikandan-rr.github.io/REACT_PORTFOLIO/",
+  "homepage": "https://Manikandan-RR.github.io/REACT_PORTFOLIO",
   "name": "portfolio_react",
   "private": true,
   "version": "0.0.0",
@@ -11,6 +11,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+
   },
   "dependencies": {
     "bootstrap": "^5.3.7",
