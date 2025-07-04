@@ -30,7 +30,7 @@ export function HomePage() {
 
                             <button className="btn btn-contact" onClick={() => navigate("/aboutus")} style={{ marginRight: "20px" }}> Learn More</button>
 
-                            <button className="btn btn-contact" onClick={() => navigate("/contact")} > Hire Me</button>
+                            <button className="btn btn-contact" onClick={() => navigate('/contact')} > Hire Me</button>
 
                         </div>
 
