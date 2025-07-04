@@ -1,4 +1,4 @@
-import { BrowserRouter, Link, Route, Routes } from "react-router"
+import { BrowserRouter, Route, Routes, Link } from "react-router"
 import { useNavigate } from "react-router-dom"
 
 

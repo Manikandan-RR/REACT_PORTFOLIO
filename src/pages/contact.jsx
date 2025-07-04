@@ -10,7 +10,7 @@ export function Contact() {
 
                     <div className="d-flex  ht-100 flex-wrap align-item-center">
 
-                        <div className="wt-48">
+                        <div className="wt-48"  style={{marginTop: "120px"}}>
                             <form>
                                 <div className="card" style={{ marginRight: "4%" }}>
 
@@ -28,7 +28,7 @@ export function Contact() {
                             </form>
 
                         </div>
-                        <div className="wt-48">
+                        <div className="wt-48"  style={{marginTop: "120px"}}>
                             <div className="card">
 
                                 <div className="card-body">

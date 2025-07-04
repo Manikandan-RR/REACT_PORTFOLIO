@@ -16,7 +16,7 @@ export function Projects() {
                 <div className="container ht-100">
 
                     <div className="text-center portwidth" style={{ margin: "0 auto" }}>
-                        <p className="mb-0">Portfolio</p>
+                        <p className="mb-0">Projects</p>
                         <h2 className="mt-0 mb-0">We Offer Great Affordable Premium Prices</h2>
                         <p className="opacity">It is a long established fact that a reader will be distracted by the readable
                             content of a page when

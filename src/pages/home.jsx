@@ -1,5 +1,5 @@
 import Me_N1 from "../assets/images/Me_N1.jpg";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 
 
