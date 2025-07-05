@@ -319,27 +319,28 @@ label:hover {
   } */
 
 .name h1 {
-    color: rgb(19, 201, 146);
+    color: rgb(15, 227, 235);
     font-size: 25px;
     cursor: pointer;
-    animation: glow 2s ease infinite;
+    animation: glow 4s ease infinite;
 }
 
 @keyframes glow {
     from {
-        color: rgb(31, 92, 95);
+        color: #08e6ee;
+        /* rgb(241, 239, 84) */
         /* text-shadow: */
-            /* 0 0 5px #07f1de,
+        /* 0 0 5px #07f1de,
         0 0 25px #07f1de; */
     }
 
     to {
-        color: white;
+        color: #da09d0;
         text-shadow:
-            0 0 5px #0fb9b1,
-            0 0 25px #0fb9b1;
-        /* 0 0 50px #fed330; */
-        /* 0 0 100px #006266; */
+            0 0 5px #f0cd0a,
+            0 0 25px #f0cd0a;
+            /* 0 0 50px #f0cd0a; */
+            /* 0 0 100px #006266; */
 
     }
 }
